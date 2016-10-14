@@ -1,0 +1,236 @@
+abstract
+abstract class
+abstract method
+Abstract Window Toolkit (AWT)
+access control
+ACID
+actual parameter list
+API
+applet
+argument
+array
+ASCII
+atomic
+authentication
+authorization
+autoboxing
+bean
+binary operator
+bit
+bitwise operator
+block
+boolean
+break
+byte
+bytecode
+case
+casting
+catch
+char
+class
+class method
+class variable
+classpath
+client
+codebase
+comment
+commit
+compilation unit
+compiler
+compositing
+constructor
+const
+continue
+conversational state
+CORBA
+core class
+core packages
+credentials
+critical section
+declaration
+default
+definition
+delegation
+deprecation
+derived from
+distributed
+distributed application
+DOM
+double
+double precision
+DT
+EmbeddedJava Technology
+encapsulation
+enum
+enumerated type
+exception
+exception handler
+executable content
+extends
+field
+final
+finally
+float
+FTP
+formal parameter list
+garbage collection
+generic
+goto
+group
+GUI
+hexadecimal
+hierarchy
+HTML
+HTTP
+HTTPS
+IDL
+identifier
+IIOP
+impersonation
+implements
+import
+inheritance
+instance
+instance method
+instance variable
+instanceof
+int
+interface
+Internet
+IP
+interpreter
+JAIN
+JAR
+Java
+Java 2 Platform
+Java 2 Platform, Enterprise Edition (J2EE platform)
+Java 2 Platform, Micro Edition (J2ME platform)
+Java 2 Platform, Standard Edition (J2SE platform)
+Java 2 SDK, Standard Edition
+Java APIs for Integrated Networks (JAIN)
+Java Card API
+Java Compatibility Kit (JCK)
+Java Database Connectivity (JDBC)
+Java Development Kit (JDK)
+Java Foundation Classes (JFC)
+Java IDL
+Java Interface Definition Language (IDL)
+Java Media APIs
+Java Media Framework
+Java Naming and Directory Interface (JNDI)
+Java Native Interface
+Java Platform
+Java Platform Editions
+Java Remote Method Invocation (RMI)
+Java Runtime Environment (JRE)
+Java virtual machine 1
+JavaBeans
+JavaCheck
+JavaSafe
+JavaScript
+JavaSpaces
+JDBC
+JDK
+JFC
+Jini Technology
+JNDI
+JNI
+JRE
+Just-in-time (JIT) Compiler
+JVM
+keyword
+lexical
+linker
+literal
+local variable
+long
+member
+method
+multithreaded
+native
+null
+object
+object-oriented design
+octal
+optional packages
+ORB
+OS principal
+OTS
+overloading
+overriding
+package
+peer
+persistence
+pixel
+POA
+primary key
+primitive type
+principal
+private
+privilege
+process
+property
+profiles
+protected
+public
+raster
+realm
+reference
+return
+RMI
+rollback
+root
+RPC
+runtime system
+SAX
+sandbox
+scope
+Secure Socket Layer (SSL)
+security attributes
+security context
+security policy domain
+security technology domain
+serialization
+short
+single precision
+SGML
+SOAP
+SQL
+static
+static field
+static method
+stream
+subarray
+subclass
+subtype
+superclass
+super
+supertype
+switch
+Swing
+synchronized
+TCP/IP
+Technology Compatibility Kit (TCK)
+thin client
+thread
+throw
+throws
+transaction
+transaction isolation level
+transaction manager
+transient
+try
+type
+Unicode
+URI
+URL
+URN
+variable
+virtual machine
+void
+volatile
+Web server
+world readable files
+wrapper
+WWW
+XML
